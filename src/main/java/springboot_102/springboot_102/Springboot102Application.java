@@ -1,0 +1,13 @@
+package springboot_102.springboot_102;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Springboot102Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Springboot102Application.class, args);
+    }
+
+}
